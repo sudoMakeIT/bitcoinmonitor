@@ -1,0 +1,12 @@
+name: priceTracker
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - pip=21.2.4
+  - python=3.8.13
+  - requests=2.22.0
+  - logging=20.1.1
+  - datetime=3.8.0
+  - pypsycopg2=2.9.3
+  - pytest=7.1.2
