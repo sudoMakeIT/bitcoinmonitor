@@ -1,5 +1,0 @@
-make --dry-run --always-make --keep-going --print-directory
-make: Entering directory '/home/brunopinto/_dev/learnDE/priceTracker'
-docker-compose --env-file env up --build -d
-make: Leaving directory '/home/brunopinto/_dev/learnDE/priceTracker'
- 
