@@ -1,6 +1,8 @@
+isort
+pandas
 psycopg2
-requests
 pytest
 pytest-mock
+requests
+sqlalchemy
 types-requests
-isort

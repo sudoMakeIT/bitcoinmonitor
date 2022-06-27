@@ -4,7 +4,7 @@ channels:
   - defaults
 dependencies:
   - pip=21.2.4
-  - python=3.8.13
+  - python=3.7
   - requests=2.22.0
   - logging=20.1.1
   - datetime=3.8.0

@@ -1,7 +1,7 @@
-DROP TABLE IF EXISTS bitcoin.price;
+DROP TABLE IF EXISTS airflow.price;
 DROP SCHEMA IF EXISTS bitcoin;
 CREATE SCHEMA bitcoin;
-CREATE TABLE bitcoin.price (
+CREATE TABLE airflow.price (
     id VARCHAR(50),
     symbol VARCHAR(50),
     name VARCHAR(50),
